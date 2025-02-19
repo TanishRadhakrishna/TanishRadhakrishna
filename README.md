@@ -59,3 +59,7 @@ Check out my work and feel free to connect!  😊</p>
 </div>
 
 ###
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanishRadhakrishna&layout=compact&theme=radical)
+###
+![Snake animation](https://github.com/YOUR_GITHUB_USERNAME/TanishRadhakrishna/blob/output/github-contribution-grid-snake.svg)
+
