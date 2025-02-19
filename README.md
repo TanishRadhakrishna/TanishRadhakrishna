@@ -19,7 +19,7 @@
 Check out my work and feel free to connect!  😊</p>
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://imgs.search.brave.com/nyMzRVyOINjC39r5xDbDs98f5W5-Ii56tvsMVuHtEb8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvcGV0ZXIt/Z3JpZmZpbi1mYW1p/bHktZ3V5LWhhcHB5/LWhlYWQtc3Bpbi1h/a2hiam1wYmN0cXp3/anhvLmdpZg.gif"  />
 
 ###
 
@@ -49,6 +49,13 @@ Check out my work and feel free to connect!  😊</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman logo" />
+
 </div>
 
 ###
