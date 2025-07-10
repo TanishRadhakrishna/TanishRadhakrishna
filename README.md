@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">  I’m a third-year engineering student who loves solving real-world problems with technology. Always exploring and learning.  
+<p align="left">  I’m a engineering student who loves solving real-world problems with technology. Always exploring and learning.  
 
 🚀 Passionate about innovation  
 💡 Focused on impactful projects  
