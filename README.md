@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Tanish and I'm a ISE student,from SCEM</p>
+<p align="left">Myself Tanish Radhakrishna a third year Information Science student at Sahyadri College of Engineering and Management</p>
 
 ###
 
