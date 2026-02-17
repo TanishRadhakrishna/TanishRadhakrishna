@@ -1,31 +1,86 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hi 👋, I'm Tanish Radhakrishna</h1>
 
-###
+<h3 align="center">
+Information Science Engineering Student • Full Stack Developer • Machine Learning Enthusiast
+</h3>
 
-<p align="left">Myself Tanish Radhakrishna a third year Information Science student at Sahyadri College of Engineering and Management</p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=0E75B6&center=true&vCenter=true&width=600&lines=Building+Real-World+Applications;Full+Stack+Developer;Exploring+Machine+Learning;Always+Learning" />
+</p>
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 👨‍💻 Professional Overview  
 
-###
+🎓 Fourth Year **Information Science Engineering** student at **Sahyadri College of Engineering & Management**
+💡 Strong interest in building real-world solutions using Full Stack and Machine Learning  
+🚀 Experienced in developing scalable applications and AI-driven platforms  
+🔍 Actively exploring modern technologies and best practices  
 
-<p align="left">  I’m a engineering student who loves solving real-world problems with technology. Always exploring and learning.  
+I focus on creating meaningful software — combining backend logic, frontend experience, and intelligent systems.
 
-🚀 Passionate about innovation  
-💡 Focused on impactful projects  
-🔍 Always curious  
+---
 
-Check out my work and feel free to connect!  😊</p>
-###
+## 🛠️ Technical Skills  
 
-###
+### Programming Languages  
+<p>
+<img src="https://skillicons.dev/icons?i=java,c,python,javascript,html,css,mysql" />
+</p>
+
+### Frameworks & Libraries  
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
+</p>
+
+### Databases & Cloud  
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase" />
+</p>
+
+### Developer Tools  
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman,figma,canva" />
+</p>
+
+---
+
+## 🚀 Key Highlights  
+
+✔ Built ML-based anemia detection systems using Python  
+✔ Developed MERN applications with AI chatbot integration  
+✔ Created Resume Analyzer with skill extraction & course recommendations  
+✔ Creative Lead — mentoring teams and designing technical content  
+
+---
+
+## 📊 GitHub Statistics  
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=TanishRadhakrishna&show_icons=true&theme=radical" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TanishRadhakrishna&theme=radical" width="48%" />
+</p>
+
+---
+
+## 🌐 Most Used Languages  
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanishRadhakrishna&layout=compact&theme=radical" />
+</p>
+
+---
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TanishRadhakrishna/TanishRadhakrishna/output/github-contribution-grid-snake.svg" />
+</p>
+---
 
 
-###
+---
 
-
-###
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanishRadhakrishna&layout=compact&theme=radical)
-
-
+⭐ Feel free to explore my repositories and connect!
