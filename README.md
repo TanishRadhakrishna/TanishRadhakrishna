@@ -57,7 +57,6 @@ I focus on creating meaningful software — combining backend logic, frontend ex
 ## 📊 GitHub Statistics  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TanishRadhakrishna&show_icons=true&theme=radical" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanishRadhakrishna&theme=radical" width="48%" />
 </p>
 
