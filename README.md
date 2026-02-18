@@ -37,7 +37,7 @@ Information Science Engineering Student • Full Stack Developer • Machine Lea
 
 ### Developer Tools  
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman,figma,canva" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman,figma,docker" />
 </p>
 
 ---
