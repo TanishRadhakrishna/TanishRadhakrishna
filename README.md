@@ -70,7 +70,9 @@ I focus on creating meaningful software — combining backend logic, frontend ex
 </p>
 
 ---
-
+<p align="center">
+  <img src="sus.gif" width="350" />
+</p>
 ---
 
 ## 🐍 Contribution Activity
