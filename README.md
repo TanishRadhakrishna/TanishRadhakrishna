@@ -12,7 +12,7 @@ Information Science Engineering Student • Full Stack Developer • Machine Lea
 
 ## 👨‍💻 Professional Overview  
 
-🎓 Fourth Year **Information Science Engineering** student at **Sahyadri College of Engineering & Management**
+🎓 Final Year **Information Science Engineering** student at **Sahyadri College of Engineering & Management**
 💡 Strong interest in building real-world solutions using Full Stack and Machine Learning
 🔍 Actively exploring modern technologies and best practices  
 
