@@ -13,7 +13,7 @@ Information Science Engineering Student • Full Stack Developer • Machine Lea
 ## 👨‍💻 Professional Overview  
 
 🎓 Final Year **Information Science Engineering** student at **Sahyadri College of Engineering & Management**
-💡 Strong interest in building real-world solutions using Full Stack and Machine Learning
+💡 Strong interest in building real-world solutions
 🔍 Actively exploring modern technologies and best practices  
 
 ---
@@ -22,7 +22,7 @@ Information Science Engineering Student • Full Stack Developer • Machine Lea
 
 ### Programming Languages  
 <p>
-<img src="https://skillicons.dev/icons?i=java,c,python,javascript,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=java,c,python,javascript" />
 </p>
 
 ### Frameworks & Libraries  
@@ -32,22 +32,13 @@ Information Science Engineering Student • Full Stack Developer • Machine Lea
 
 ### Databases & Cloud  
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
 </p>
 
 ### Developer Tools  
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman,figma,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker" />
 </p>
-
----
-
-## 🚀 Key Highlights  
-
-✔ Built ML-based anemia detection systems using Python  
-✔ Developed MERN applications with AI chatbot integration  
-✔ Created Resume Analyzer with skill extraction & course recommendations  
-✔ Creative Lead — mentoring teams and designing technical content  
 
 ---
 
@@ -58,9 +49,7 @@ Information Science Engineering Student • Full Stack Developer • Machine Lea
 </p>
 
 ---
-<p align="center">
-  <img src="sus.gif" width="350" />
-</p>
+
 ---
 
 ## 🐍 Contribution Activity
